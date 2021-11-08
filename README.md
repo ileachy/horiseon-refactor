@@ -4,4 +4,3 @@ Horiseon Social Solution Services is a company offering reputation managment, se
 A codebase that follows accessibility standards.
 ## Live Link
 https://ileachy.github.io/horiseon-refactor/
-git@github.com:ileachy/horiseon-refactor.git
